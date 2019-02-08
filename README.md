@@ -1,4 +1,5 @@
-# **go shorty**
+<p align="center"> <img src="https://raw.githubusercontent.com/chrisPiemonte/goshorty/master/client/app/images/wiener.png" width="180"/></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/chrisPiemonte/goshorty/master/client/app/images/logo.png" width="420"/></p>
 
 [![docker](https://img.shields.io/badge/Docker-1.7.1-blue.svg?style=flat)](https://www.docker.com/)  [![AngularJS](https://img.shields.io/badge/AngularJS-1.3.0-red.svg?style=flat)](https://angular.io/) [![spark](https://img.shields.io/badge/Spark%20Java-2.2-orange.svg?style=flat)](http://sparkjava.com/) [![redis](https://img.shields.io/badge/Redis-3.0.4-red.svg?style=flat)](http://redis.io/) 
 
@@ -10,10 +11,6 @@
  - **NoSQL Database**: **[Redis](http://redis.io/)**
 
 Everything runs inside **[Docker](https://www.docker.com/)** containers.
-
-
-
-----------
 
 
 
@@ -44,9 +41,6 @@ Everything runs inside **[Docker](https://www.docker.com/)** containers.
 	| goshorty | TCP  | 127.0.0.1 | 4567    | 0.0.0.0  | 4567 
 
 
-----------
-
-
-## Utilization
+## How to use it
 Open a web browser and go to <pre>http://localhost:4567</pre>
 
